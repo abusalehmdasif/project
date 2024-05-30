@@ -1,0 +1,37 @@
+body{
+    background-color: aquamarine;
+}
+
+#addButton{
+    text-align: center;
+    margin: 50px;
+    padding: 10px;
+    color: brown;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: 0.25s;
+}
+
+#addButton:hover{
+    background-color: bisque;
+    transform:scale(1.1);
+}
+#deleteButton{
+color: black;
+cursor: pointer;
+transition: 0.25s;
+margin: 10px;
+padding: 10px;
+border-radius:5px  ;
+}
+#deleteButton:hover{
+    background-color: red;
+    transform:scale(1.1);
+}
+#praragraphContainer{
+    background-color: white;
+    margin: 100px;
+    padding: 10px;
+    border-radius: 4px;
+    
+}
